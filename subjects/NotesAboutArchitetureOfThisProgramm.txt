@@ -1,0 +1,7 @@
+4.04.17
+It is necessary to add a search of the written fragment in interactive mode
+I need to find a way of splitting the building the form and adding the listeners
+(NB!!!) To add a dialogs for open a folder where the subject will be searching and from where the whole
+ hierarchy of subjects will be uploaded to combobox! It is also important to add a new part into that directory (opened before)
+  and it has to be added to combobox after that without reloading the program. Instead of the button "Add" it has to be placed
+  a button (Save changes) or just (save). add a functionality to combobox if it is empty.
